@@ -1,0 +1,22 @@
+M Sandeep
+
+Bangalore campus Mechanical 
+GitHub
+
+Operational Now.....
+
+Fluid-Mechanics:
+
+Fluid statics deals with?
+A. Viscous and pressure forces
+B. Viscous and gravity forces
+C. Gravity and pressure forces
+D. Surface tension and gravity forces
+ANSWER: C
+
+The water side of the wall of a 100 -m-long dam is a quarter circle with a radius of 1 m. The hydrostatic force on the dam and its line of action when the dam is filled to the rim is?
+A. 1000 N
+B. 450 N
+C. 746 N
+D. 823 N
+ANSWER: A
